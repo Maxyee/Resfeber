@@ -1,0 +1,11 @@
+C:\Users\Mohon\Desktop\Travelogue\Resfeber\Resfeber\bin\Debug\netcoreapp2.0\Resfeber.deps.json
+C:\Users\Mohon\Desktop\Travelogue\Resfeber\Resfeber\bin\Debug\netcoreapp2.0\Resfeber.runtimeconfig.json
+C:\Users\Mohon\Desktop\Travelogue\Resfeber\Resfeber\bin\Debug\netcoreapp2.0\Resfeber.runtimeconfig.dev.json
+C:\Users\Mohon\Desktop\Travelogue\Resfeber\Resfeber\bin\Debug\netcoreapp2.0\Resfeber.dll
+C:\Users\Mohon\Desktop\Travelogue\Resfeber\Resfeber\bin\Debug\netcoreapp2.0\Resfeber.pdb
+C:\Users\Mohon\Desktop\Travelogue\Resfeber\Resfeber\obj\Debug\netcoreapp2.0\Resfeber.csprojResolveAssemblyReference.cache
+C:\Users\Mohon\Desktop\Travelogue\Resfeber\Resfeber\obj\Debug\netcoreapp2.0\Resfeber.csproj.CoreCompileInputs.cache
+C:\Users\Mohon\Desktop\Travelogue\Resfeber\Resfeber\obj\Debug\netcoreapp2.0\Resfeber.AssemblyInfoInputs.cache
+C:\Users\Mohon\Desktop\Travelogue\Resfeber\Resfeber\obj\Debug\netcoreapp2.0\Resfeber.AssemblyInfo.cs
+C:\Users\Mohon\Desktop\Travelogue\Resfeber\Resfeber\obj\Debug\netcoreapp2.0\Resfeber.dll
+C:\Users\Mohon\Desktop\Travelogue\Resfeber\Resfeber\obj\Debug\netcoreapp2.0\Resfeber.pdb
